@@ -1,0 +1,39 @@
+.hi{
+    color:rgb(228, 43, 136);;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#dis{
+    text-align:center;
+    color:hotpink;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  
+}
+.uff{
+    color:rgb(228, 43, 136);;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.yo{
+    text-align: center;
+    color:hotpink;
+    
+}
+#name{
+    color:rgb(228, 43, 136);;
+}
+.kii{
+     
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+        }
+
+
+p::first-line {
+    color:lightpink;
+    font-variant: small-caps;
+  }
+
+
